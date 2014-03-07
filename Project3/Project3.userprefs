@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BlockMove.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Class5/Assets/scripts/PhysicsDemo.cs">
     <Files>
-      <File FileName="Assets/BlockMove.cs" Line="13" Column="40" />
-      <File FileName="../Class4/Assets/CubeMove.cs" Line="1" Column="1" />
+      <File FileName="../Class5/Assets/scripts/PhysicsDemo.cs" Line="32" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
