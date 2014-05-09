@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 3c6687737f2cc4455ac5e06a6b11980f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest
+    100004: core
+    100006: group2
+    100008: joint1
+    100010: joint11
+    100012: joint12
+    100014: joint14
+    100016: joint15
+    100018: joint17
+    100020: joint18
+    100022: joint20
+    100024: joint21
+    100026: joint28
+    100028: joint29
+    100030: joint30
+    100032: joint31
+    100034: joint36
+    100036: joint37
+    100038: joint39
+    100040: joint40
+    100042: joint42
+    100044: joint43
+    100046: joint45
+    100048: joint46
+    100050: joint48
+    100052: joint49
+    100054: joint8
+    100056: joint9
+    100058: knees
+    100060: left_elbow
+    100062: left_fin1
+    100064: left_index
+    100066: left_inner_fin
+    100068: left_middle
+    100070: left_outer_fin
+    100072: left_palm
+    100074: left_pinky
+    100076: left_ring
+    100078: left_shoulder
+    100080: left_thumb
+    100082: neck1
+    100084: polySurface14
+    100086: pSphere1
+    100088: pSphere2
+    100090: right_elbow
+    100092: right_fin
+    100094: right_index
+    100096: right_inner_fin
+    100098: right_middle
+    100100: right_outer_fin
+    100102: right_palm
+    100104: right_pinky
+    100106: right_ring
+    100108: right_shoulder
+    100110: right_thumb
+    100112: tail_end
+    400000: //RootNode
+    400002: chest
+    400004: core
+    400006: group2
+    400008: joint1
+    400010: joint11
+    400012: joint12
+    400014: joint14
+    400016: joint15
+    400018: joint17
+    400020: joint18
+    400022: joint20
+    400024: joint21
+    400026: joint28
+    400028: joint29
+    400030: joint30
+    400032: joint31
+    400034: joint36
+    400036: joint37
+    400038: joint39
+    400040: joint40
+    400042: joint42
+    400044: joint43
+    400046: joint45
+    400048: joint46
+    400050: joint48
+    400052: joint49
+    400054: joint8
+    400056: joint9
+    400058: knees
+    400060: left_elbow
+    400062: left_fin1
+    400064: left_index
+    400066: left_inner_fin
+    400068: left_middle
+    400070: left_outer_fin
+    400072: left_palm
+    400074: left_pinky
+    400076: left_ring
+    400078: left_shoulder
+    400080: left_thumb
+    400082: neck1
+    400084: polySurface14
+    400086: pSphere1
+    400088: pSphere2
+    400090: right_elbow
+    400092: right_fin
+    400094: right_index
+    400096: right_inner_fin
+    400098: right_middle
+    400100: right_outer_fin
+    400102: right_palm
+    400104: right_pinky
+    400106: right_ring
+    400108: right_shoulder
+    400110: right_thumb
+    400112: tail_end
+    2300000: polySurface14
+    2300002: pSphere1
+    2300004: pSphere2
+    3300000: polySurface14
+    3300002: pSphere1
+    3300004: pSphere2
+    4300000: polySurface14
+    4300002: pSphere2
+    4300004: pSphere1
+    7400000: Test
+    7400002: tread
+    7400004: test
+    9500000: //RootNode
+    13700000: polySurface14
+    13700002: pSphere1
+    13700004: pSphere2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tread
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/polySurface14
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/core
+        weight: 1
+      - path: joint1/core/chest
+        weight: 1
+      - path: joint1/core/chest/left_shoulder
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index/joint11
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index/joint11/joint12
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle/joint14
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle/joint14/joint15
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky/joint20
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky/joint20/joint21
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring/joint17
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring/joint17/joint18
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb/joint8
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb/joint8/joint9
+        weight: 1
+      - path: joint1/core/chest/neck1
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29/joint30
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: joint1/core/chest/right_shoulder
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index/joint39
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index/joint39/joint40
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle/joint42
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle/joint42/joint43
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky/joint48
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky/joint48/joint49
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring/joint45
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring/joint45/joint46
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb/joint36
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb/joint36/joint37
+        weight: 1
+      - path: joint1/knees
+        weight: 1
+      - path: joint1/knees/tail_end
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1/left_inner_fin
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1/left_outer_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin/right_inner_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin/right_outer_fin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: test
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/polySurface14
+        weight: 1
+      - path: group2/pSphere1
+        weight: 1
+      - path: group2/pSphere2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/core
+        weight: 1
+      - path: joint1/core/chest
+        weight: 1
+      - path: joint1/core/chest/left_shoulder
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index/joint11
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_index/joint11/joint12
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle/joint14
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_middle/joint14/joint15
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky/joint20
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_pinky/joint20/joint21
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring/joint17
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_ring/joint17/joint18
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb/joint8
+        weight: 1
+      - path: joint1/core/chest/left_shoulder/left_elbow/left_palm/left_thumb/joint8/joint9
+        weight: 1
+      - path: joint1/core/chest/neck1
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29/joint30
+        weight: 1
+      - path: joint1/core/chest/neck1/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: joint1/core/chest/right_shoulder
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index/joint39
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_index/joint39/joint40
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle/joint42
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_middle/joint42/joint43
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky/joint48
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_pinky/joint48/joint49
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring/joint45
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_ring/joint45/joint46
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb/joint36
+        weight: 1
+      - path: joint1/core/chest/right_shoulder/right_elbow/right_palm/right_thumb/joint36/joint37
+        weight: 1
+      - path: joint1/knees
+        weight: 1
+      - path: joint1/knees/tail_end
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1/left_inner_fin
+        weight: 1
+      - path: joint1/knees/tail_end/left_fin1/left_outer_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin/right_inner_fin
+        weight: 1
+      - path: joint1/knees/tail_end/right_fin/right_outer_fin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

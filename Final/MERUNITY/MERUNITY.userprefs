@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/c#/treadandstuff.cs">
+    <Files>
+      <File FileName="../../unityclass_sculpt-master/Assets/scripts/ObjExporter.cs" Line="7" Column="27" />
+      <File FileName="../../unityclass_sculpt-master/Assets/scripts/NotMayaSculptBlank.cs" Line="1" Column="1" />
+      <File FileName="Assets/c#/treadandstuff.cs" Line="19" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
