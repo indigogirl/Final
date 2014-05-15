@@ -1,10 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/c#/treadandstuff.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/c#/turtle_swim.cs">
     <Files>
-      <File FileName="../../unityclass_sculpt-master/Assets/scripts/ObjExporter.cs" Line="7" Column="27" />
-      <File FileName="../../unityclass_sculpt-master/Assets/scripts/NotMayaSculptBlank.cs" Line="1" Column="1" />
-      <File FileName="Assets/c#/treadandstuff.cs" Line="19" Column="44" />
+      <File FileName="Assets/c#/Text_appear.js" Line="1" Column="1" />
+      <File FileName="Assets/c#/TreasureReveal.js" Line="1" Column="1" />
+      <File FileName="Assets/c#/you_win!.js" Line="1" Column="1" />
+      <File FileName="Assets/c#/FishAnimate.cs" Line="1" Column="1" />
+      <File FileName="Assets/c#/turtle_swim.cs" Line="19" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

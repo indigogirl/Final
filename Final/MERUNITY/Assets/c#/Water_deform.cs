@@ -24,7 +24,7 @@ public class Water_deform : MonoBehaviour {
 						//apply the sin wave to make it bouncy!
 						workingCopy[i] = baseVertices [i]
 										+ Vector3.up 
-										* Mathf.Sin (Time.time + i) *0.25f;
+										* Mathf.Sin (Time.time + i) *0.12f;
 	
 				}
 
